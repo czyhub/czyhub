@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @czyhub
+- 👋 Hi, I’m ZY
 - 👀 I study psychology and statistcs
-- 🌱 I like reading and calisthenics
-- 📫 you can reach me: zcui2@depaul.edu
+- 🌱 I enjoy reading, writing, and calisthenics
+- 📫 you can reach me: evolutionczy@gmail.com
 
 <!---
 czyhub/czyhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
